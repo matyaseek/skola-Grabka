@@ -12,4 +12,5 @@
 - I was born in 2008 so I am 17 years old in 2025
 - I was born in the Czech Republic, specifically in Varnsdorf
 
-[![Instagram]([https://static-00.iconduck.com/assets.00/instagram-icon-256x256-es6audw5.png](https://kappa.lol/4iZ2Z))](https://www.instagram.com/matesgrabka/)
+[![Instagram]([https://github.com/user-attachments/assets/40dd275c-9121-4505-b300-5635116c68a9))](https://www.instagram.com/matesgrabka/)
+
